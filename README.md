@@ -1,8 +1,9 @@
 # Prolific CLI
 
-![GitHub Badge](https://github.com/benmatselby/prolificli/workflows/Go/badge.svg)
+> [!NOTE]
+> This project has now turned into the official [Prolific CLI](https://github.com/prolific-oss/cli).
 
-CLI application for getting information out of [Prolific](https://www.prolific.com) about your research studies. **This project is not affiliated to Prolific in any way.**
+CLI application for getting information out of [Prolific](https://www.prolific.com) about your research studies.
 
 ```text
 CLI application for retrieving data from the Prolific Platform
